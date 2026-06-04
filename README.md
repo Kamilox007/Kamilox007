@@ -8,7 +8,7 @@
 ### 🧠 About me
 
 - 🎓 Wrapping up my Master's in Computer Science (AI specialisation) in 2026.
-- 📄 Writing my thesis on **robust value-based methods for group decision support** — bridging multi-criteria decision analysis and machine learning.
+- 📄 Writing my thesis on **robust value-based methods for group decision support.**
 - 🔭 Currently focused on **classical ML and NLP**, and ramping up on **LLMs** (Hugging Face ecosystem, fine-tuning, RAG).
 - 🎯 Looking for an entry-level role as an **ML / AI Engineer** or **Data Scientist**.
 - 🎲 Outside of code: board games, video games, and anything math- or physics-flavoured.
