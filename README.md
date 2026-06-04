@@ -67,7 +67,7 @@
   <a href="mailto:kamil.krzywon24@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/kamil-krzywo%C5%84-349354314/]">
+  <a href="https://www.linkedin.com/in/kamil-krzywo%C5%84-349354314/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
